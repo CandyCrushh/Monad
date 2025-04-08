@@ -1,15 +1,6 @@
 # Monad
 This repo for all kind of links of websites related to monad tesynet
-🤑🪂All Required links👇
-
-🔹 Read Strategy: tinyurl.com/3fpnf5az
-
-📎 All Faucet links
-
-1st: https://testnet.monad.xyz 
-2nd: https://tinyurl.com/yt4v4dhw
-3rd: https://tinyurl.com/4frju7c5
-4th: https://tinyurl.com/ysn3y5wc
+🪂All Required links👇
 
 📎 All Dex/NFT/& Ecosystem links
 
