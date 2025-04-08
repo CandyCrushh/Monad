@@ -6,7 +6,7 @@ This repo for all kind of links of websites related to monad tesynet
 
 📎 All Faucet links
 
-1st: https://testnet.monad.xyz
+1st: https://testnet.monad.xyz 
 2nd: https://tinyurl.com/yt4v4dhw
 3rd: https://tinyurl.com/4frju7c5
 4th: https://tinyurl.com/ysn3y5wc
@@ -18,7 +18,7 @@ This repo for all kind of links of websites related to monad tesynet
 3) https://tinyurl.com/wdr7juj3
 4) https://tinyurl.com/3wz2kywh
 5) Uniswap: https://testnet.monad.xyz
-6)  Stake: https://stake.apr.io
+6) Stake: https://stake.apr.io
 7)  Mint/Swap: tinyurl.com/2srunw5c
 8) Domain: tinyurl.com/3663smv2
 9) 1st NFT: tinyurl.com/4jf9nwe8
