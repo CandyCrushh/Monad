@@ -19,7 +19,7 @@ This repo for all kind of links of websites related to monad tesynet
 4) https://tinyurl.com/3wz2kywh
 5) Uniswap: https://testnet.monad.xyz
 6) Stake: https://stake.apr.io
-7)  Mint/Swap: tinyurl.com/2srunw5c
+7)  Mint/Swap: https://app-monad-testnet.azaar.com/mint?chainId=10143
 8) Domain: tinyurl.com/3663smv2
 9) 1st NFT: tinyurl.com/4jf9nwe8
 10) 2nd NFT: tinyurl.com/4ryncvnr
